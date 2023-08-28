@@ -1,0 +1,5 @@
+- Wholesale customers Data Set
+https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set
+
+- Data set 
+https://archive.ics.uci.edu/dataset/292/wholesale+customers
