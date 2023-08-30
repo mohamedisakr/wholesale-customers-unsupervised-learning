@@ -3,3 +3,6 @@ https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set
 
 - Data set 
 https://archive.ics.uci.edu/dataset/292/wholesale+customers
+
+- Unsupervised Learning-Clustering | Complete Guide
+https://www.kaggle.com/code/berkayalan/unsupervised-learning-clustering-complete-guide
